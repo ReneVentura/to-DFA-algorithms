@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "svn.ignoreMissingSvnWarning": true,
+    "java.debug.settings.onBuildFailureProceed": true
+}
